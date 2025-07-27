@@ -33,7 +33,7 @@
 <p align="center">
   <img src="assets/Home%20(6).png" width="220"/>
   <img src="assets/Home%20(5).png" width="220"/>
-  <img src="assets/Home%20(4).png" width="220"/>
+  <img src="assets/Planet Details.png" width="220"/>
   <img src="assets/Login.png" width="220"/>
 </p>
 
